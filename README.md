@@ -1,6 +1,6 @@
 This is AICP 2.0 internship Tasks!
-<h3>Task No.05</h3>
-<h1>What you will learn in week 5 Task is:</h1>
+<h2>Task No.05</h2>
+<h4>What you will learn in week 5 Task is:</h4>
 <p>
 🔍 Scatter Plot with Trendline: Leveraging ordinary least squares (OLS) regression, I've been able to uncover insightful trends in data, helping to predict future outcomes and understand relationships between variables.
 
